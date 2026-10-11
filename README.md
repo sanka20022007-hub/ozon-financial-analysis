@@ -1,2 +1,24 @@
-# ozon-financial-analysis
-Financial analysis of Ozon based on IFRS statements, 2023–2025
+# Ozon Financial Analysis, 2023–2025
+
+Финансовый анализ Ozon на основе консолидированной отчётности по МСФО.
+
+## Что анализируется
+- динамика выручки
+- структура выручки
+- Adjusted EBITDA и EBITDA margin
+- операционная и чистая прибыль
+- ликвидность и долговая нагрузка
+
+## Ключевые выводы
+- выручка компании значительно выросла за 2023–2025 годы
+- доля сервисов и fintech в структуре выручки увеличилась
+- Adjusted EBITDA margin выросла с 1,5% до 15,7%
+- операционный результат улучшился от убытка к прибыли
+- чистая денежная позиция существенно укрепилась
+
+## Инструменты
+Excel • IFRS Financial Analysis • Data Visualization
+
+## Файлы проекта
+- `Ozon_Financial_Analysis.xlsx` — расчёты и графики
+- `Ozon_Financial_Analysis.pdf` — итоговый аналитический отчёт
